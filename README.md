@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziadrad
 - 👀 I’m interested in Programming
-- 🌱 I’m currently Flutter
+- 🌱 I’m currently front end web devoloper
 - 📫 How to reach me  ziadrady60@gmail.com
 
 <!---
