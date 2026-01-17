@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziadrad
 - 👀 I’m interested in Programming
-- 🌱 I’m currently front end web devoloper
+- 🌱 I’m currently Full Stack web devoloper (.net + Angular + React)
 - 📫 How to reach me  ziadrady60@gmail.com
 
 <!---
